@@ -1,4 +1,4 @@
-<img src="./App/AppInfo/appinfo_256.png" alt="GitHubDesktop logo" width="150" />
+<img src="./GitHubDesktopPortable/App/AppInfo/appicon_256.png" alt="GitHubDesktop logo" width="150" />
 
 # GitHubDesktopPortable<a href="https://portableapps.com/"><img src="https://cdn.portableapps.com/portableapps.com_1546.png" width="309" height="45" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
@@ -41,5 +41,5 @@ is packaged in an installer and complete zip file.
 ## License
 
 *   GitHubDesktop Portable released under [the MIT license](https://raw.githubusercontent.com/Makazzz/GitHubDesktopPortable/master/LICENSE).
-*   PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/GitHubDesktopPortable/master/FranzPortable/Other/Source/LauncherLicense.txt).
+*   PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/GitHubDesktopPortable/master/GitHubDesktopPortable/Other/Source/LauncherLicense.txt).
 *   GitHubDesktop is released under [the MIT license](https://raw.githubusercontent.com/desktop/desktop/development/LICENSE).
