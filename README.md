@@ -6,7 +6,7 @@ Simple collaboration from your desktop.
 
 Extend your GitHub workflow beyond your browser with GitHub Desktop,
 completely redesigned with Electron. Get a unified cross-platform experience
-that’s completely open source and ready to customize. 
+that’s completely open source and ready to customize.
 
 My post on the [Portableapps.com forum](https://portableapps.com/node/60744)
 
@@ -35,7 +35,7 @@ is packaged in an installer and complete zip file.
 
 ## Credits
 
-*   GitHubDesktop Portable is a redistribution of [GitHubDesktop](https://desktop.github.com/), developped by the [GitHub team](https://github.com/desktop/desktop)
+*   GitHubDesktop Portable is a redistribution of [GitHubDesktop](https://desktop.github.com/), developed by the [GitHub team](https://github.com/desktop/desktop)
 *   [PortableApps.com platform](https://portableapps.com/download) developed by the [PortableApps.com team](https://portableapps.com).
 
 ## License
